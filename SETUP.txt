@@ -1,0 +1,52 @@
+=====================================================================
+  CAREER AI - AI-Powered Career Recommendation System
+  Quick Setup Guide
+=====================================================================
+
+HOW TO RUN:
+  1. Double-click index.html
+     OR
+     Open it in Chrome/Edge/Firefox: File > Open File > index.html
+
+  2. No server or installation required.
+
+  3. Internet needed for:
+     - Background images (Unsplash CDN)
+     - Chart.js charts (CDN)
+     - Google Fonts (CDN)
+     - AI Chatbot (optional, needs your Anthropic API key)
+
+PAGES (use nav menu or type #hash in URL):
+  home        Landing page with hero, stats, features
+  auth        Login / Register
+  assessment  5-step career pathfinder
+  results     Career match results with radar chart
+  explorer    Browse all 20+ careers (search/filter/save/compare)
+  resume      Upload & analyze your resume
+  jobs        Browse 50+ job listings & apply
+  chatbot     AI career counselor
+  trends      What's Hot in 2026 - industry insights
+  forum       Community discussion board
+  stories     Success stories gallery
+  mentors     Book career mentors
+  leaderboard Weekly/Monthly/Yearly rankings
+  dashboard   User dashboard (results, progress, saved, skills)
+  profile     Edit profile, security, activity, preferences
+  history     Past assessment results with chart
+  faq         Help & FAQ with search
+  admin       Admin panel (Ctrl+Shift+A, password: dev123)
+
+ADMIN PANEL:
+  Press Ctrl+Shift+A or navigate to #admin
+  Default password: dev123
+  Features: Dashboard stats, User management, Storage browser,
+            Activity logs, System diagnostics
+
+FILE STRUCTURE:
+  D:\apps\AI CAREER11\
+    index.html     ← THE ENTIRE APPLICATION (~3615 lines)
+    README.md      ← Full documentation
+    SETUP.txt      ← This file
+
+For complete documentation, see README.md
+=====================================================================
